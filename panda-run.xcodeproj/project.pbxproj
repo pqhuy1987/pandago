@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		4AA492FB1DDACA3000D7F97C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA492FA1DDACA3000D7F97C /* Default-568h@2x.png */; };
+		4AA492FD1DDAE66800D7F97C /* Icon-76x76.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA492FC1DDAE66800D7F97C /* Icon-76x76.png */; };
+		4AA492FF1DDAE6A500D7F97C /* Icon-120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA492FE1DDAE6A500D7F97C /* Icon-120x120.png */; };
+		4AA493011DDAE87100D7F97C /* Icon-152x152.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA493001DDAE87100D7F97C /* Icon-152x152.png */; };
 		770457C315DA0E5100E05FFA /* fire-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 770457C215DA0E5100E05FFA /* fire-hd.png */; };
 		770457C715DA27DC00E05FFA /* fly_leaf-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 770457C515DA27DB00E05FFA /* fly_leaf-hd.png */; };
 		770457C815DA27DC00E05FFA /* fly_leaf.png in Resources */ = {isa = PBXBuildFile; fileRef = 770457C615DA27DB00E05FFA /* fly_leaf.png */; };
@@ -264,6 +267,9 @@
 
 /* Begin PBXFileReference section */
 		4AA492FA1DDACA3000D7F97C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		4AA492FC1DDAE66800D7F97C /* Icon-76x76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76x76.png"; path = "panda-run/Images/Icon-76x76.png"; sourceTree = SOURCE_ROOT; };
+		4AA492FE1DDAE6A500D7F97C /* Icon-120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-120x120.png"; path = "panda-run/Images/Icon-120x120.png"; sourceTree = SOURCE_ROOT; };
+		4AA493001DDAE87100D7F97C /* Icon-152x152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-152x152.png"; path = "panda-run/Images/Icon-152x152.png"; sourceTree = SOURCE_ROOT; };
 		770457C215DA0E5100E05FFA /* fire-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fire-hd.png"; path = "panda-run/Images/fire-hd.png"; sourceTree = SOURCE_ROOT; };
 		770457C515DA27DB00E05FFA /* fly_leaf-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fly_leaf-hd.png"; path = "panda-run/Images/fly_leaf-hd.png"; sourceTree = SOURCE_ROOT; };
 		770457C615DA27DB00E05FFA /* fly_leaf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fly_leaf.png; path = "panda-run/Images/fly_leaf.png"; sourceTree = SOURCE_ROOT; };
@@ -1381,6 +1387,9 @@
 		775075CA1599F31A00E628B1 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				4AA492FE1DDAE6A500D7F97C /* Icon-120x120.png */,
+				4AA493001DDAE87100D7F97C /* Icon-152x152.png */,
+				4AA492FC1DDAE66800D7F97C /* Icon-76x76.png */,
 				770457C915DA299300E05FFA /* star-hd.png */,
 				770457CA15DA299400E05FFA /* star.png */,
 				770457C515DA27DB00E05FFA /* fly_leaf-hd.png */,
@@ -1574,6 +1583,7 @@
 				77F67A4615BAFFCF000C2CA5 /* hill.png in Resources */,
 				7775BD0015BEAFDD003A6190 /* over.png in Resources */,
 				7775BD0815BEC027003A6190 /* pause.png in Resources */,
+				4AA493011DDAE87100D7F97C /* Icon-152x152.png in Resources */,
 				774C919815CAD776005D6391 /* sprites-hd.png in Resources */,
 				4AA492FB1DDACA3000D7F97C /* Default-568h@2x.png in Resources */,
 				774C919C15CB8624005D6391 /* over-hd.png in Resources */,
@@ -1582,12 +1592,14 @@
 				774C91A115CB96B7005D6391 /* icon.png in Resources */,
 				774C91B315CC20E8005D6391 /* Default.png in Resources */,
 				774C91B415CC20E8005D6391 /* Default@2x.png in Resources */,
+				4AA492FD1DDAE66800D7F97C /* Icon-76x76.png in Resources */,
 				7777EEC215CE21AB00D39D73 /* AntsyPants.ttf in Resources */,
 				778F16B615CF804C009C7E64 /* Amano.ttf in Resources */,
 				778F16B715CF804C009C7E64 /* Amazon.ttf in Resources */,
 				778F16B815CF804C009C7E64 /* Almagro Regular.ttf in Resources */,
 				779B59F115D3453D007750CD /* tips-hd.png in Resources */,
 				779B59F215D3453D007750CD /* tips.png in Resources */,
+				4AA492FF1DDAE6A500D7F97C /* Icon-120x120.png in Resources */,
 				779B59F515D347C4007750CD /* AlphaMack AOE.ttf in Resources */,
 				779B5A0715D8E1E4007750CD /* sky-hd.png in Resources */,
 				779B5A0B15D8E4BD007750CD /* hill-hd.png in Resources */,
