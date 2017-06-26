@@ -7,10 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4AA492FB1DDACA3000D7F97C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA492FA1DDACA3000D7F97C /* Default-568h@2x.png */; };
-		4AA492FD1DDAE66800D7F97C /* Icon-76x76.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA492FC1DDAE66800D7F97C /* Icon-76x76.png */; };
-		4AA492FF1DDAE6A500D7F97C /* Icon-120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA492FE1DDAE6A500D7F97C /* Icon-120x120.png */; };
-		4AA493011DDAE87100D7F97C /* Icon-152x152.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AA493001DDAE87100D7F97C /* Icon-152x152.png */; };
 		770457C315DA0E5100E05FFA /* fire-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 770457C215DA0E5100E05FFA /* fire-hd.png */; };
 		770457C715DA27DC00E05FFA /* fly_leaf-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 770457C515DA27DB00E05FFA /* fly_leaf-hd.png */; };
 		770457C815DA27DC00E05FFA /* fly_leaf.png in Resources */ = {isa = PBXBuildFile; fileRef = 770457C615DA27DB00E05FFA /* fly_leaf.png */; };
@@ -24,7 +20,6 @@
 		774C919C15CB8624005D6391 /* over-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919A15CB8621005D6391 /* over-hd.png */; };
 		774C919D15CB8624005D6391 /* pause-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919B15CB8622005D6391 /* pause-hd.png */; };
 		774C91A015CB96B7005D6391 /* icon-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919E15CB96B4005D6391 /* icon-hd.png */; };
-		774C91A115CB96B7005D6391 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919F15CB96B5005D6391 /* icon.png */; };
 		774C91B315CC20E8005D6391 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C91B115CC20DE005D6391 /* Default.png */; };
 		774C91B415CC20E8005D6391 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C91B215CC20E1005D6391 /* Default@2x.png */; };
 		774C91B715CD1581005D6391 /* PauseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 774C91B615CD1580005D6391 /* PauseView.m */; };
@@ -253,6 +248,7 @@
 		77F67A3F15BABF11000C2CA5 /* Mud.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F67A3E15BABF0F000C2CA5 /* Mud.m */; };
 		77F67A4415BAFE1B000C2CA5 /* Hill.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F67A4315BAFE1A000C2CA5 /* Hill.m */; };
 		77F67A4615BAFFCF000C2CA5 /* hill.png in Resources */ = {isa = PBXBuildFile; fileRef = 77F67A4515BAFFCD000C2CA5 /* hill.png */; };
+		9791BA361F00BA930087D002 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9791BA351F00BA930087D002 /* Media.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -266,10 +262,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4AA492FA1DDACA3000D7F97C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		4AA492FC1DDAE66800D7F97C /* Icon-76x76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76x76.png"; path = "panda-run/Images/Icon-76x76.png"; sourceTree = SOURCE_ROOT; };
-		4AA492FE1DDAE6A500D7F97C /* Icon-120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-120x120.png"; path = "panda-run/Images/Icon-120x120.png"; sourceTree = SOURCE_ROOT; };
-		4AA493001DDAE87100D7F97C /* Icon-152x152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-152x152.png"; path = "panda-run/Images/Icon-152x152.png"; sourceTree = SOURCE_ROOT; };
 		770457C215DA0E5100E05FFA /* fire-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fire-hd.png"; path = "panda-run/Images/fire-hd.png"; sourceTree = SOURCE_ROOT; };
 		770457C515DA27DB00E05FFA /* fly_leaf-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fly_leaf-hd.png"; path = "panda-run/Images/fly_leaf-hd.png"; sourceTree = SOURCE_ROOT; };
 		770457C615DA27DB00E05FFA /* fly_leaf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fly_leaf.png; path = "panda-run/Images/fly_leaf.png"; sourceTree = SOURCE_ROOT; };
@@ -287,7 +279,6 @@
 		774C919A15CB8621005D6391 /* over-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "over-hd.png"; path = "panda-run/Images/over-hd.png"; sourceTree = SOURCE_ROOT; };
 		774C919B15CB8622005D6391 /* pause-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pause-hd.png"; path = "panda-run/Images/pause-hd.png"; sourceTree = SOURCE_ROOT; };
 		774C919E15CB96B4005D6391 /* icon-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-hd.png"; path = "panda-run/Images/icon-hd.png"; sourceTree = SOURCE_ROOT; };
-		774C919F15CB96B5005D6391 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = "panda-run/Images/icon.png"; sourceTree = SOURCE_ROOT; };
 		774C91B115CC20DE005D6391 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = "panda-run/Images/Default.png"; sourceTree = SOURCE_ROOT; };
 		774C91B215CC20E1005D6391 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "panda-run/Images/Default@2x.png"; sourceTree = SOURCE_ROOT; };
 		774C91B515CD1580005D6391 /* PauseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PauseView.h; path = Scenes/PauseView.h; sourceTree = "<group>"; };
@@ -711,6 +702,7 @@
 		77F67A4315BAFE1A000C2CA5 /* Hill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Hill.m; path = Objects/Hill.m; sourceTree = "<group>"; };
 		77F67A4515BAFFCD000C2CA5 /* hill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hill.png; path = "panda-run/Images/hill.png"; sourceTree = SOURCE_ROOT; };
 		77FC33DA15A57BCF00F0DF2E /* ContactDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ContactDelegate.h; path = Helpers/ContactDelegate.h; sourceTree = "<group>"; };
+		9791BA351F00BA930087D002 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -747,7 +739,7 @@
 		775073941599DD1300E628B1 = {
 			isa = PBXGroup;
 			children = (
-				4AA492FA1DDACA3000D7F97C /* Default-568h@2x.png */,
+				9791BA351F00BA930087D002 /* Media.xcassets */,
 				77F4003815A59CF0003E3232 /* README.md */,
 				775073AB1599DD1300E628B1 /* panda-run */,
 				775073C71599DD1400E628B1 /* panda-runTests */,
@@ -1387,9 +1379,6 @@
 		775075CA1599F31A00E628B1 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				4AA492FE1DDAE6A500D7F97C /* Icon-120x120.png */,
-				4AA493001DDAE87100D7F97C /* Icon-152x152.png */,
-				4AA492FC1DDAE66800D7F97C /* Icon-76x76.png */,
 				770457C915DA299300E05FFA /* star-hd.png */,
 				770457CA15DA299400E05FFA /* star.png */,
 				770457C515DA27DB00E05FFA /* fly_leaf-hd.png */,
@@ -1404,7 +1393,6 @@
 				774C91B115CC20DE005D6391 /* Default.png */,
 				774C91B215CC20E1005D6391 /* Default@2x.png */,
 				774C919E15CB96B4005D6391 /* icon-hd.png */,
-				774C919F15CB96B5005D6391 /* icon.png */,
 				774C919A15CB8621005D6391 /* over-hd.png */,
 				774C919B15CB8622005D6391 /* pause-hd.png */,
 				774C919715CAD775005D6391 /* sprites-hd.png */,
@@ -1531,7 +1519,7 @@
 				LastUpgradeCheck = 0810;
 				TargetAttributes = {
 					7750739E1599DD1300E628B1 = {
-						DevelopmentTeam = JQNK74493B;
+						DevelopmentTeam = 4BLWLFDFU8;
 					};
 				};
 			};
@@ -1573,6 +1561,7 @@
 				77CD5FCD15AED035004997F4 /* grab.caf in Resources */,
 				77CD5FCE15AED035004997F4 /* intro.mp3 in Resources */,
 				77CD5FCF15AED035004997F4 /* levelCompleted.caf in Resources */,
+				9791BA361F00BA930087D002 /* Media.xcassets in Resources */,
 				77CD5FD015AED035004997F4 /* levelFailed.caf in Resources */,
 				77CD5FDC15AFBFAE004997F4 /* sprites.png in Resources */,
 				77CD5FDE15AFC043004997F4 /* sprites.plist in Resources */,
@@ -1583,23 +1572,18 @@
 				77F67A4615BAFFCF000C2CA5 /* hill.png in Resources */,
 				7775BD0015BEAFDD003A6190 /* over.png in Resources */,
 				7775BD0815BEC027003A6190 /* pause.png in Resources */,
-				4AA493011DDAE87100D7F97C /* Icon-152x152.png in Resources */,
 				774C919815CAD776005D6391 /* sprites-hd.png in Resources */,
-				4AA492FB1DDACA3000D7F97C /* Default-568h@2x.png in Resources */,
 				774C919C15CB8624005D6391 /* over-hd.png in Resources */,
 				774C919D15CB8624005D6391 /* pause-hd.png in Resources */,
 				774C91A015CB96B7005D6391 /* icon-hd.png in Resources */,
-				774C91A115CB96B7005D6391 /* icon.png in Resources */,
 				774C91B315CC20E8005D6391 /* Default.png in Resources */,
 				774C91B415CC20E8005D6391 /* Default@2x.png in Resources */,
-				4AA492FD1DDAE66800D7F97C /* Icon-76x76.png in Resources */,
 				7777EEC215CE21AB00D39D73 /* AntsyPants.ttf in Resources */,
 				778F16B615CF804C009C7E64 /* Amano.ttf in Resources */,
 				778F16B715CF804C009C7E64 /* Amazon.ttf in Resources */,
 				778F16B815CF804C009C7E64 /* Almagro Regular.ttf in Resources */,
 				779B59F115D3453D007750CD /* tips-hd.png in Resources */,
 				779B59F215D3453D007750CD /* tips.png in Resources */,
-				4AA492FF1DDAE6A500D7F97C /* Icon-120x120.png in Resources */,
 				779B59F515D347C4007750CD /* AlphaMack AOE.ttf in Resources */,
 				779B5A0715D8E1E4007750CD /* sky-hd.png in Resources */,
 				779B5A0B15D8E4BD007750CD /* hill-hd.png in Resources */,
@@ -1941,9 +1925,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = 4BLWLFDFU8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "panda-run/panda-run-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -1953,10 +1939,11 @@
 				INFOPLIST_FILE = "panda-run/panda-run-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = "-lz";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.pandarun.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.london.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "\"panda-run/libs\"";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1966,17 +1953,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = 4BLWLFDFU8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "panda-run/panda-run-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = NDEBUG;
 				INFOPLIST_FILE = "panda-run/panda-run-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = "-lz";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.pandarun.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.london.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "\"panda-run/libs\"";
 				WRAPPER_EXTENSION = app;
 			};
