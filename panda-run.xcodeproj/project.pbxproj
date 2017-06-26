@@ -19,7 +19,6 @@
 		774C919815CAD776005D6391 /* sprites-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919715CAD775005D6391 /* sprites-hd.png */; };
 		774C919C15CB8624005D6391 /* over-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919A15CB8621005D6391 /* over-hd.png */; };
 		774C919D15CB8624005D6391 /* pause-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919B15CB8622005D6391 /* pause-hd.png */; };
-		774C91A015CB96B7005D6391 /* icon-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C919E15CB96B4005D6391 /* icon-hd.png */; };
 		774C91B315CC20E8005D6391 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C91B115CC20DE005D6391 /* Default.png */; };
 		774C91B415CC20E8005D6391 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 774C91B215CC20E1005D6391 /* Default@2x.png */; };
 		774C91B715CD1581005D6391 /* PauseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 774C91B615CD1580005D6391 /* PauseView.m */; };
@@ -278,7 +277,6 @@
 		774C919715CAD775005D6391 /* sprites-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "sprites-hd.png"; path = "panda-run/Images/sprites-hd.png"; sourceTree = SOURCE_ROOT; };
 		774C919A15CB8621005D6391 /* over-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "over-hd.png"; path = "panda-run/Images/over-hd.png"; sourceTree = SOURCE_ROOT; };
 		774C919B15CB8622005D6391 /* pause-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pause-hd.png"; path = "panda-run/Images/pause-hd.png"; sourceTree = SOURCE_ROOT; };
-		774C919E15CB96B4005D6391 /* icon-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-hd.png"; path = "panda-run/Images/icon-hd.png"; sourceTree = SOURCE_ROOT; };
 		774C91B115CC20DE005D6391 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = "panda-run/Images/Default.png"; sourceTree = SOURCE_ROOT; };
 		774C91B215CC20E1005D6391 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "panda-run/Images/Default@2x.png"; sourceTree = SOURCE_ROOT; };
 		774C91B515CD1580005D6391 /* PauseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PauseView.h; path = Scenes/PauseView.h; sourceTree = "<group>"; };
@@ -1392,7 +1390,6 @@
 				779B59F015D3453D007750CD /* tips.png */,
 				774C91B115CC20DE005D6391 /* Default.png */,
 				774C91B215CC20E1005D6391 /* Default@2x.png */,
-				774C919E15CB96B4005D6391 /* icon-hd.png */,
 				774C919A15CB8621005D6391 /* over-hd.png */,
 				774C919B15CB8622005D6391 /* pause-hd.png */,
 				774C919715CAD775005D6391 /* sprites-hd.png */,
@@ -1575,7 +1572,6 @@
 				774C919815CAD776005D6391 /* sprites-hd.png in Resources */,
 				774C919C15CB8624005D6391 /* over-hd.png in Resources */,
 				774C919D15CB8624005D6391 /* pause-hd.png in Resources */,
-				774C91A015CB96B7005D6391 /* icon-hd.png in Resources */,
 				774C91B315CC20E8005D6391 /* Default.png in Resources */,
 				774C91B415CC20E8005D6391 /* Default@2x.png in Resources */,
 				7777EEC215CE21AB00D39D73 /* AntsyPants.ttf in Resources */,
